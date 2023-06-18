@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: usamaaamirsohail@gmail.com
 - 😄 Pronouns: UsamaDev
 - ⚡ Fun fact: What gets me up in the morning - Epic problem solving, scaling organizations, inventing the future, and having fun doing it every day!
--->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usama7365&theme=radical)
