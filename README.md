@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 - 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions.👨🏻‍💻✅💻
 
 -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usama7365&theme=radical)
-
 - 📫 How to reach me: usamaaamirsohail@gmail.com
 - 😄 Pronouns: UsamaDev
 - ⚡ Fun fact: What gets me up in the morning - Epic problem solving, scaling organizations, inventing the future, and having fun doing it every day!
