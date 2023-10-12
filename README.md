@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a full-stack development project https://main.ddbwdjepg8yrm.amplifyapp.com/.
+- 🔭 I’m currently working on a full-stack developer
 - 🌱 I’m currently learning Devops.
 - 👯 I’m looking to collaborate on Contribute to Open Source.
 - 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.
