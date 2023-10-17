@@ -55,6 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/usama7365/usama7365/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
