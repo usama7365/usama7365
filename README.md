@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=usama7365.usama7365&"  />
-</div>
-
-###
-
 <h1 align="center">Hi UsamaDev Here 👋</h1>
 
 ###
