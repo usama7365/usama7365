@@ -33,19 +33,6 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=usama7365&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
 </div>
