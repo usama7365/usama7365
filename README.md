@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on a full-stack developer<br>- 🌱 I’m currently learning Devops.<br>- 👯 I’m looking to collaborate on Contribute to Open Source.<br>- 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>- 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions.👨🏻‍💻✅</p>
+<p align="left">Here are some Intro about me:<br><br>- 🔭 I’m currently working as a Full Stack developer<br>- 🌱 I’m currently learning Devops.<br>- 👯 I’m looking to collaborate on Contribute to Open Source.<br>- 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>- 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions.👨🏻‍💻✅</p>
 
 ###
 
