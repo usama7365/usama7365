@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/usama-aamir-0434b6229/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://usama7365.github.io/Portfolio/" target="_blank">
+  <a href="https://portfolio-usama7365.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=youtube&label=&color=FCFCFD&logoColor=6942C0&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
