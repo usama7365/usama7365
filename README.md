@@ -1,12 +1,14 @@
+<div align="left">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=usama7365&style=for-the-badge&color=blue" alt="Profile Views Badge" />
+</div>
+
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 </div>
 
 ###
-<div align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=usama7365&style=for-the-badge&color=blue" alt="Profile Views Badge" />
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/usama-aamir-0434b6229/" target="_blank">
