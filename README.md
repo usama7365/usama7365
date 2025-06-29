@@ -41,9 +41,30 @@
   - 🔭 I’m currently working as a Full Stack Engineer<br>
   - 🌱 I’m currently learning RUST/ROR.<br>
   - 👯 I’m looking to collaborate on Contribute to Open Source.<br>
+  
   - 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>
   - 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions. 👨🏻‍💻✅
 </p>
+
+## 🚀 My Featured Hackathon Project
+
+### [🎨 Pixify - Share. Connect. Inspire.](https://devpost.com/software/pixify-rf8px4)
+
+> 📍 **Submitted to:** World’s Largest Hackathon by Bolt  
+> 🛠️ Built using **React 18, Supabase, PostgreSQL, Zustand, Tailwind CSS, TypeScript**
+
+Pixify is a full-stack social media platform that reimagines digital storytelling.  
+Features include:
+
+- 🖼️ Story System (ephemeral content with view tracking)
+- 🔒 Advanced Privacy Controls
+- 📡 Real-time Notifications & Messaging
+- 📊 Post Analytics & Engagement Tracking
+- 🎥 Reels with AI-based recommendations
+
+🧠 **Built solo** — architecture, UI/UX, backend, real-time infra & deployment.
+
+🔗 [🔎 Live Demo](https://majestic-cobbler-e26b2b.netlify.app) | [🧾 Devpost Link](https://devpost.com/software/pixify-rf8px4) | [📁 Source Code (on request)](#)
 
 ###
 
