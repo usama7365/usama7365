@@ -71,7 +71,7 @@ Features include:
 
 ---
 
-### [🦷 DentalHub - Empowering Dental Practices with AI](https://github.com/usama7365/dentalhub-frontend) & [Backend](https://github.com/usama7365/dentalhub-backend)
+### [🦷 DentalHub - Empowering Dental Practices with AI](https://credsverse.com/credentials/56852205-64b9-439e-89d8-77a138427b80)
 
 > 📍 **Event:** Hackfest 3.0 by Remotebase   
 > 🛠️ Built using **React 18, Python, FastAPI, crewAI, multi-agent, PostgreSQL,  DataAnalytics, Tailwind CSS, TypeScript**
