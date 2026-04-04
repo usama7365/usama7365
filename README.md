@@ -26,9 +26,9 @@
 ###
 
 
-<div align="center">
+<!-- <div align="center">
   <img height="400" src="https://avatars.githubusercontent.com/u/87513168?s=400&u=a979503e8c0312806cdc5f204309331a1261570f&v=4" />
-</div>
+</div> -->
 
 ###
 
