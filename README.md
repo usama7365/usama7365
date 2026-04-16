@@ -3,8 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=usama7365&style=for-the-badge&color=blue" alt="Profile Views Badge" />
 </div>
 
-<div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<div  align="center">
+  <img  height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </div>
 
 ###
@@ -45,6 +45,17 @@
   - 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>
   - 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions. 👨🏻‍💻✅
 </p>
+
+## ⚡ Fun Fact
+
+I prefer building my own systems instead of relying on third-party solutions 😄
+
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/usama-aamir-0434b6229/
+- 📧 Email: usamaaamirsohail@gmail.com
+
 
 ## 🚀 My Featured Hackathon Projects
 
